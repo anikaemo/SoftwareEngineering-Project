@@ -1,8 +1,8 @@
-# Day 1 Repository:
-[b10-solosphere-day1](https://github.com/shakilahmedatik/b10-solosphere-day1)
+# React + Vite
 
-# Day 2 (Complete) Repository
-[b10-solosphere-day2](https://github.com/shakilahmedatik/b10-solosphere-day2-complete)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Project with Pagination
-[pagination](https://github.com/shakilahmedatik/soloSphere-complete)
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
